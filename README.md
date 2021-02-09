@@ -25,8 +25,31 @@ alle plekken waar `YourCore` en `YourPrefix-` staat aanpassen naar jouw eigen **
 ## Aanpassingen aan je Core
 Voeg volgende code toe aan je shared.lua in de core
 ```bash
-	["zwartgeld"] 	  	 	 	  	 = {["name"] = "zwartgeld",           		    ["label"] = "Zwart geld",	 			    ["weight"] = 1, 		["type"] = "item", 		["image"] = "zwartgeld.png", 		 	["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Zeer vies geld"},
-	["waskaart"] 	  	 	 	  	   = {["name"] = "waskaart",           		      ["label"] = "Wasserette kaart",	 		["weight"] = 1, 		["type"] = "item", 		["image"] = "waskaart.png", 		 	["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Werkt u bij de wasserette?"},
+	["zwartgeld"] = {
+		["name"] = "zwartgeld",           		    
+		["label"] = "Zwart geld",	 			
+		["weight"] = 1, 		
+		["type"] = "item", 		
+		["image"] = "zwartgeld.png", 		 	
+		["unique"] = false, 	
+		["useable"] = true, 	
+		["shouldClose"] = true,    
+		["combinable"] = nil,   
+		["description"] = "Zeer vies geld"
+	},
+	
+	["waskaart"] = {
+		["name"] = "waskaart",           		    
+		["label"] = "Wasserette kaart",	 		
+		["weight"] = 1, 		
+		["type"] = "item", 		
+		["image"] = "waskaart.png", 		 	
+		["unique"] = false, 	
+		["useable"] = true, 	
+		["shouldClose"] = true,    
+		["combinable"] = nil,  
+		 ["description"] = "Werkt u bij de wasserette?"
+	},
 
 ```
 
