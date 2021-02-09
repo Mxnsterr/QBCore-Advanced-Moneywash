@@ -1,7 +1,7 @@
 # Custom-Qbus-Witwas
 
 Dit is een custom script dat je de mogelijkheid geeft om zwart geld wit te wassen. Op het moment bestaat er al een traphouse maar dit is eens iets anders. 
-Weet dat elk item van zwart geld gelijk is aan **€1**. Wat we dus doen is, je wast per 500 en krijgt daar een percentage van terug als cash (wit geld). Meer info onderaan. :)
+Weet dat elk item van zwart geld gelijk is aan **€1**. Wat we dus doen is, je wast per 500 en krijgt daar een percentage van terug als cash (wit geld). Het is met een volledig nieuw item dus je kan instellen dat je bv bij winkelovervallen ofzo geen cash krijgt maar het item "zwartgeld". Meer info onderaan. :)
 
 ## Hoe werkt het nu juist
 Je moet aan de werknemerskaart geraken om binnen te geraken in de witwas (wasserette). Deze kan je uit een inklok machientje vinden op een bepaalde locatie. Natuurlijk is er maar 
