@@ -48,7 +48,7 @@ Voeg volgende code toe aan je shared.lua in de core
 		["useable"] = true, 	
 		["shouldClose"] = true,    
 		["combinable"] = nil,  
-		 ["description"] = "Werkt u bij de wasserette?"
+		["description"] = "Werkt u bij de wasserette?"
 	},
 
 ```
